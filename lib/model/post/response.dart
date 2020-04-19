@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_app_2/events/dataContent.dart';
-import 'package:flutter_app_2/events/events.dart';
+import 'package:flutter_app_2/model/post/dataContent.dart';
 
 class Response {
   final DataContent dataContent;
