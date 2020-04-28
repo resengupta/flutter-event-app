@@ -1,4 +1,4 @@
-# flutter Events App
+# Flutter Events App
 
 A new Flutter application. That gets list of items from remote and display as a listview, using BLOC architechture.
 https://pub.dev/packages/bloc
