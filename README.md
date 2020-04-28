@@ -7,5 +7,5 @@ https://pub.dev/packages/bloc
 
 
 ## TODOs
-- Explore more examples with block architecture
+- Explore more examples with BLOC architecture
 - See how bloc works internally 
