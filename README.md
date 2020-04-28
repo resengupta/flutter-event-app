@@ -2,7 +2,7 @@
 
 A new Flutter application.
 
-![Alt text](/photo_2020-04-28 10.04.13.jpeg?raw=true "Optional Title")
+![Alt text](photo_2020-04-28 10.04.13.jpeg)
 
 
 ## Getting Started
