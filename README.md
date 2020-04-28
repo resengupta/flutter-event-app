@@ -1,8 +1,8 @@
 # flutter_app_2
 
-A new Flutter application.
+A new Flutter application. That gets list of items from remote and display as a listview, using BLOC architechture.
 
-![Alt text](photo_2020-04-28 10.04.13.jpeg)
+<img src="photo_2020-04-28 10.04.13.jpeg" alt>
 
 
 ## Getting Started
